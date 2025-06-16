@@ -1,5 +1,4 @@
 # myignores
-data/*
 !data/.gitkeep
 dummy/*
 final_output/*
