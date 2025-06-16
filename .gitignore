@@ -1,3 +1,20 @@
+# myignores
+data/*
+!data/.gitkeep
+dummy/*
+final_output/*
+!final_output/.gitkeep
+image/*
+pred_result/*
+!pred_result/.gitkeep
+reference/*
+ACD/*
+!ACD/.gitkeep
+ASC/*
+!ASC/.gitkeep
+web/*
+!web/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
