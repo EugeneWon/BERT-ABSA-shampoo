@@ -7,12 +7,13 @@ image/*
 pred_result/*
 !pred_result/.gitkeep
 reference/*
-ACD/*
+/ACD/*
 !ACD/.gitkeep
-ASC/*
+/ASC/*
 !ASC/.gitkeep
 web/*
 !web/.gitkeep
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
