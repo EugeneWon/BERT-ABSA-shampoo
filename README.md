@@ -1,6 +1,7 @@
 # BERT-ABSA-shampoo 
 올리브영 리뷰 기반 샴푸 속성-감성 분석 (ABSA: Aspect-Based Sentiment Analysis)
-프로젝트명 : shortcut_2_ur_shampoo.txt
+
+#### 프로젝트명 : shortcut_2_ur_shampoo.txt
 
 ---
 
