@@ -97,6 +97,7 @@
 ---
 
 ## 📌 웹 서비스 구성
+https://bert-absa-shampoo-web.onrender.com
 
 ### 샴푸 리스트
 - 선택한 속성의 긍정 비율 기준 내림차순 정렬
