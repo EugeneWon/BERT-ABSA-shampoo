@@ -109,6 +109,10 @@ https://bert-absa-shampoo-web.onrender.com
 - 속성별 감성 점수 방사형 차트 (Top6 기준)
 - 속성-감성 라벨링 리뷰 리스트 제공
 
+### 웹 서비스 배포 
+- database : supabase/postgresql
+- web service : render 
+
 ---
 
 ## 📌 프로젝트 의의
